@@ -3,7 +3,7 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.16.4",
-    "react": "^16.8.0"
+    "react": "^17.0.1"
   },
   "dependencies": {
     "@existentialism/package-a": "file:packages/package-a",
