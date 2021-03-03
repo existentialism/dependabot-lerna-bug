@@ -2,7 +2,7 @@
   "name": "@existentialism/dependabot-lerna-bug",
   "private": true,
   "devDependencies": {
-    "lerna": "^3.16.4",
+    "lerna": "^4.0.0",
     "react": "^16.8.0"
   },
   "dependencies": {
